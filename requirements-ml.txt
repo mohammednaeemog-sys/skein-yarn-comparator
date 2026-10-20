@@ -1,0 +1,7 @@
+# Install a CUDA-enabled PyTorch + matching torchvision build from the official
+# PyTorch selector BEFORE installing this file:
+# https://pytorch.org/get-started/locally/
+# Select: Windows / Pip / Python / CUDA (not CPU).
+# This file deliberately does not pin or reinstall torch/torchvision, because
+# that can replace a correctly selected CUDA build with an incompatible build.
+segmentation-models-pytorch>=0.3.3

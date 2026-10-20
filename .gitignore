@@ -1,0 +1,42 @@
+﻿# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local data and generated outputs
+data/
+reports/
+uploads/
+outputs/
+calibration_profile.json
+*.log
+*.bak
+*.bak_*
+
+# Large trained model checkpoints
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local backup copies
+*.backup_*
+
+# Local backup copies
+*.backup_*
+*.bak_*

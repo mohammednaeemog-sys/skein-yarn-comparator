@@ -1,0 +1,7 @@
+streamlit
+opencv-contrib-python<5,>=4.8
+numpy
+pillow
+matplotlib
+scikit-image
+pytest
