@@ -89,7 +89,7 @@ Install:
    python -m streamlit run yarn_diameter_app_neon.py
    ```
 
-7. Streamlit will print a local address, usually **http://localhost:8501**. Open it in the browser on that PC.
+7. Streamlit will print a local address, usually **https://skein-yarn-studio.streamlit.app/**. Open it in the browser on that PC.
 
 To stop the app, focus the terminal and press **Ctrl+C**.
 
