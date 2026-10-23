@@ -254,5 +254,8 @@ Skein is a functional research prototype. Fifteen software tests passed in a pre
 - **Streamlit app sharing:** <https://docs.streamlit.io/deploy/streamlit-community-cloud/share-your-app>
 
 ---
+## Authors :
+Mohammed Naeem
+Jasim Uddin Shimul
 
 <sub>Built as a research prototype. Confirm calibration and measurement validity before using results for textile quality-control or other consequential decisions.</sub>
