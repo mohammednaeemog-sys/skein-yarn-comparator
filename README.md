@@ -255,8 +255,8 @@ Skein is a functional research prototype. Fifteen software tests passed in a pre
 
 ---
 ## Authors :
-- Mohammed Naeem
-- Jasim Uddin Shimul
+-1. Mohammed Naeem
+-2. Jasim Uddin Shimul
 
 ---
 
